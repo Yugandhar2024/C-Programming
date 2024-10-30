@@ -23,7 +23,7 @@ switch(a)
           break;
     case 8:printf("August");
           break;
-    case9:printf("Septmber");
+    case 9:printf("Septmber");
           break;
     case 10:printf("Octomber");
            break;
